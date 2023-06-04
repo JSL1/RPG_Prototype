@@ -1,0 +1,16 @@
+//768 x 432
+var game;
+var gameConfig;
+/*
+Retro RPG prototype
+one player character
+random encounters
+2 different enemies
+one treasure chest
+one NPC with one line of dialog
+*/
+window.onload=function() {
+  gameConfig = {
+
+  }
+}
